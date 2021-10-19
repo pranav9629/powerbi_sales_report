@@ -3,7 +3,7 @@ This repo includes a powerbi file that was built to reflect sales to budget rela
 
 ------Created by Pranav on 19th October 2021----------
 
-File is designed a part of learning/exploring powerbi tool. It has data related to the sales and budget of a company in the year 2016.
+File is designed as a part of learning/exploring powerbi tool. It has data related to the sales and budget of a company in the year 2016.
 
 There are five different sheets in AdventureWorks_Database.xlsx which are imported to powerbi. Another file Budget.xlsx has data which is cleaned in a way to match to the data present in the other excel file.
 
